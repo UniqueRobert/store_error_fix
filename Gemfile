@@ -52,4 +52,9 @@ gem 'cancan'
 
 gem 'paperclip'
 
+gem 'stripe'
+
+gem 'dotenv-rails', group: :development
+
+
 
